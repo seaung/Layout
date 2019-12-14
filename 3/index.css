@@ -1,0 +1,10 @@
+.parent {
+    height: 200px;
+    background: red;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.child {
+    background: green;
+}

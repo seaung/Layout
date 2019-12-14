@@ -1,0 +1,12 @@
+.parent {
+    height: 200px;
+    background: red;
+    position: relative;
+}
+
+.child {
+    background: green;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}

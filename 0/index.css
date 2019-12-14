@@ -1,0 +1,16 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.parent {
+    width: 500px;
+    height: 300px;
+    background: red;
+    text-align: center;
+}
+
+.child {
+    display: inline-block;
+    background: green;
+}
