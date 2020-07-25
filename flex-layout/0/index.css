@@ -1,0 +1,14 @@
+.box {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.box .item {
+	background-color: #bcbcbc;
+	width: 300px;
+	height: 300px;
+	text-align: center;
+	flex-basis: 30%;
+	order: 1;
+}
